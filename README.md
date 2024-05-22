@@ -1,11 +1,11 @@
 # Text Summarizer
 
-A Python package for simple local text summarization with nltk
+A Python package for simple local text summarization with nltk.
 
 ## Installation
 
 ```
-pip install text_summarizer
+pip install local_text_summarizer
 ```
 
 ## Usage

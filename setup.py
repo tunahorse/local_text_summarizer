@@ -9,15 +9,15 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'summarize=text_summarizer.summarize:main',
+            'summarize=local_text_summarizer.summarize:main',
         ],
     },
     author='Fabian Anguiano',
-    author_email='fabiananguiano@gmail',
-    description='A package simple local text summarization.',
+    author_email='fabiananguiano@gmail.com',
+    description='A package for simple local text summarization.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/text_summarizer',
+    url='https://github.com/tunahorse/local_text_summarizer',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
