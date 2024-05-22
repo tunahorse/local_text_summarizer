@@ -16,7 +16,7 @@ I mostly use this for limiting token upload with expensive LLM API's. So this wa
 Here is a simple example of how to use the `local_text_summarizer` package to condense a story:
 
 ```python
-from local_text_summarizer import condense_story
+from locat_text_summarizer import condense_story
 
 text = """
 **The Little Boat's Big Adventure**
