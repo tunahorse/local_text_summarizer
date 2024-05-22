@@ -38,3 +38,11 @@ From that day on, Luna became the go-to boat for many more exciting journeys, an
 summary = condense_story(text, ratio=0.3)
 print("Summary:")
 print(summary)
+
+we go from 1622 to 678
+
+**The Little Boat's Big Adventure**
+Once upon a time, in a small marina, there was a little boat named Luna. One day, a young couple, Alex and Maddie, came to the marina looking for a boat to rent.
+
+
+
