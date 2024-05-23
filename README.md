@@ -13,17 +13,18 @@ pip install local_text_summarizer
 
 I mostly use this for limiting token upload with expensive LLM API's. So this way I can get the gist of the text and send the condensed version to the API. 
 
-IMPORTANT I MADE A SMALL SPELLING MISTAKE WITH THE FIRST VERSION
-
+FOR 0.1
+IMPORTANT I MADE A SMALL SPELLING MISTAKE WITH THE FIRST VERSION 
+TO USE 0.1
 from locat_text_summarizer import condense_story
+locat NOT local.
 
-locat NOT local. Fixing this in a few days with another few updates. 
-
+THIS HAS BEEN FIXED IN 0.2
 
 Here is a simple example of how to use the `local_text_summarizer` package to condense a story:
 
 ```python
-from locat_text_summarizer import condense_story
+from local_text_summarizer import condense_story
 
 text = """
 **The Little Boat's Big Adventure**
