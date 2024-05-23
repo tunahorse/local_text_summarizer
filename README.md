@@ -1,6 +1,7 @@
-# Text Summarizer
+# Local Text Summarizer
 
-A Python package for simple local text summarization with nltk.
+A package for simple local text summarization with nltk. Mostly used to shorten LLM API input to control cost at scale.
+
 
 ## Installation
 
